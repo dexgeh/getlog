@@ -1,0 +1,3 @@
+simple haskell program that download log files from multiple locations,
+sort them parsing the timestamp, and merge in one single file.
+handle gracefully stacktraces (targetting log4j output).
